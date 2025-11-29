@@ -24,6 +24,7 @@ I lead research on:
 - The **logical correspondence between natural language and SQL**
 - **Latest NL2SQL (Text-to-SQL)** methodologies
 - Open-source libraries related to **data intelligence & reasoning**
+- **After achieving Rank #1 on the Spider 2.0-DBT Leaderboard**, now tackling **Spider 2.0-lite**, a benchmark that gets even closer to the true essence of NL2SQL.
 
 ---
 
@@ -102,6 +103,7 @@ I lead research on:
 
 ### 🏅 Achievements & Recognition
 
+- 🥇 **Ranked #1 on the Spider 2.0-DBT (July 2025)** — challenging benchmark reflecting complex NL2SQL scenarios <sub><i><a href="https://daquv.com/en/news/detail/46">DAQUV News</a></i></sub>
 - 🥇 **Top 1% of Cursor users in Seoul** (Verified by [Anysphere](https://www.cursor.so))  
 - 🏆 **2023 Best Analyst (Software Category)** — *Maeil Business Newspaper, 2024.01*  
   <sub><i>It is the most prestigious recognition granted to analysts in South Korea, and I was the youngest recipient in its history.</i></sub>
