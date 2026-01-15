@@ -21,10 +21,10 @@ At **DAQUV**, a fintech NL2SQL AI-agent startup, we are building technology that
 I lead research on:
 
 - How **LLMs understand structured data**
-- The **logical correspondence between natural language and SQL**
-- **Latest NL2SQL (Text-to-SQL)** methodologies
-- Open-source libraries related to **data intelligence & reasoning**
-- **After achieving Rank #1 on the Spider 2.0-DBT Leaderboard**, now tackling **Spider 2.0-lite**, a benchmark that gets even closer to the true essence of NL2SQL.
+- Latest **NL2SQL (Text-to-SQL)** methodologies
+- After achieving **Rank #1 on Spider 2.0-dbt (June 2025)** and  
+  **Rank #1 on Spider 2.0-lite (January 2026)**,  
+  now challenging **Spider 2.0-snow**, the next frontier in fully-structured NL2SQL reasoning.
 
 ---
 
@@ -46,22 +46,6 @@ I lead research on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
-</p>
-
----
-
-### 🗄️ SQL / Database
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo.png" height="36" alt="DuckDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MSSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" />
 </p>
 
 ---
@@ -83,8 +67,6 @@ I lead research on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="40" alt="Thymeleaf" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-
 </p>
 
 ---
@@ -94,8 +76,6 @@ I lead research on:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" />
 </p>
 
 
@@ -103,10 +83,10 @@ I lead research on:
 
 ### 🏅 Achievements & Recognition
 
-- 🥇 **Ranked #1 on the Spider 2.0-DBT (July 2025)** — challenging benchmark reflecting complex NL2SQL scenarios <sub><i><a href="https://daquv.com/en/news/detail/46">DAQUV News</a></i></sub>
-- 🥇 **Top 1% of Cursor users in Seoul** (Verified by [Anysphere](https://www.cursor.so))  
+- 🥇 **Ranked #1 on Spider 2.0-lite (January 2026)** — closest benchmark to real NL2SQL agent behavior
+- 🥇 **Ranked #1 on Spider 2.0-dbt (June 2025)** — high-complexity multi-hop database reasoning  
 - 🏆 **2023 Best Analyst (Software Category)** — *Maeil Business Newspaper, 2024.01*  
-  <sub><i>It is the most prestigious recognition granted to analysts in South Korea, and I was the youngest recipient in its history.</i></sub>
+  <sub><i>Youngest recipient in history.</i></sub>
 
 ---
 
